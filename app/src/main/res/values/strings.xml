@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WebView Anjungan Mahasiswa</string>
+    <string name="isi">Android was originally created by Andy Rubin as an operating system for mobile phones, around the dawn of this twenty-first century. In 2005, Google acquired Android Inc., and made Andy Rubin the Director of Mobile Platforms for Google. Many think the acquisition was largely in response to the emergence of the Apple iPhone around that time; however, there were enough other large players, such as RIM Blackberry, Nokia Symbian, and Microsoft Windows Mobile, that it seemed a salient business decision for Google to purchase the talent and intellectual property necessary to assert the company into this emerging space, which has become known as Internet 2.0. </string>
+
+    <string name="title_activity_contoh_spinner">ContohSpinner</string>
+</resources>
